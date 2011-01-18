@@ -7,5 +7,12 @@
 <p>
 Just adding some junk entries here.
 </p>
+<?
+for($i=0; $i <=5; $i++)
+{
+print 'Im number ' . $i;
+}
+?>
+
 </body>
 </html>
